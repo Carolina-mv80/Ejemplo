@@ -9,6 +9,7 @@
         <p> Esto es HTML puro</p> <!-- Esto está escrito en HTML-->
         <?php
             echo "Esto es  c&oacutedigo PHP"; /* Esto está escrito en PHP*/
+            echo "Esto es una nueva linea "; /* Esto está escrito en PHP*/
         ?>
 
     </body>
